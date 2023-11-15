@@ -1,0 +1,11 @@
+body {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+body .dott {
+  position: relative;
+  width: 768px;
+  height: 768px;
+}/*# sourceMappingURL=style.css.map */
